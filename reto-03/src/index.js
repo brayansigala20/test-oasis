@@ -11,6 +11,7 @@ const mockData = require('./data.JSON');
                 "cheques": false,
                 "comisionAnual": 350.0
             }
+            
         ]
     },
     {
