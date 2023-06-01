@@ -1,0 +1,29 @@
+:root {
+    --color-primary: #6A00FF;
+    --color-secondary: #8B00FF;
+    --color-tertiary: #A020F0;
+    --color-background: #0D0D0D;
+    --color-text: #FFFFFF;
+  }
+
+ 
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid var(--color-secondary);
+  }
+
+  th {
+    background-color: var(--color-primary);
+    color: var(--color-text);
+  }
+
+  td {
+    background-color: var(--color-background);
+    color: var(--color-text);
+  }
