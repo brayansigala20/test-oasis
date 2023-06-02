@@ -1,0 +1,54 @@
+Estas son preguntas adicionales que nos gustaría saber sobre tu experiencia con este stack. 
+
+¿Cuál es tu nivel de experiencia en el desarrollo de aplicaciones utilizando React? 
+¿Has trabajado en proyectos de producción utilizando React? Por favor, proporciona algunos ejemplos.
+R: 
+   Me considero un desarrollador con experiencia de un jr ya que a mayoria de mi trayectoria ah sido freelance. 
+   Eh trabajado con proyectos de produccion en react, con equipos de trabajo como lo es en "Mr Job, y "Te prestamos dinero",
+   donde aporte apoyo en la maquetacion de los productos
+
+¿Cuál es el propósito y el uso principal de Redux en una aplicación React? 
+¿Has utilizado Redux en proyectos anteriores? ¿Cómo gestionas el estado en tus aplicaciones?
+R:
+   El propósito de Redux va a el manejo de un estado global, yo lo eh implementado en algunos proyectos y manejandolo en algunos otros.
+   Regularmente considero que requiere el proyecto, si es necesario aplicar context, redux o en casos muy particulares el uso de props.
+
+¿Estás familiarizado(a) con TypeScript y has trabajado con él en proyectos anteriores? 
+¿Cuáles son las ventajas que encuentras al utilizar TypeScript en comparación con JavaScript?
+R:
+   Estoy un constante relacion con typescript.
+   El manejo de errores si esperar la ejecucion, codigo mas legible
+
+¿Tienes experiencia en el desarrollo de sitios web estáticos utilizando Gatsby? 
+¿Cuál es tu opinión sobre las ventajas y desventajas de utilizar Gatsby en comparación con otros frameworks de React?
+R: 
+  No me ah tocado desarrollar un poducto en Gatsby.
+  La efciencia de Gatsby para sitios estaticos
+
+¿Has utilizado GraphQL para la comunicación entre el cliente y el servidor?
+ ¿Cuáles son las ventajas de utilizar GraphQL en comparación con las API REST tradicionales? 
+ ¿Qué herramientas has utilizado para trabajar con GraphQL?
+ R: 
+   No eh trabajado con GraphQL.
+
+¿Has trabajado con Tailwind CSS en proyectos anteriores?
+¿Cuál es tu opinión sobre su enfoque utility-first en comparación con otros enfoques de CSS, como los frameworks de CSS más tradicionales?
+R: 
+   En mi opinion, esta manera de manejar las clases y estilos le dan un flujo de trabajo bastante eficiente, a comparacion de algunos otros.
+
+¿Has colaborado con equipos de desarrollo utilizando herramientas de control de versiones, como Git?
+ ¿Puedes describir cómo te has organizado y colaborado eficientemente en un proyecto de equipo?
+ R: 
+   Sí, normalmente en mis equipos de trabajo, usábamos siempre Git, usando gitflow para implementar nuevas features, evitando así conflictos
+
+¿Has tenido que enfrentarte a desafíos de rendimiento en aplicaciones front-end?
+ ¿Qué estrategias o técnicas has utilizado para optimizar el rendimiento de una aplicación web?
+ R: 
+   Sí, tuve una en la que la aplicación tenía problemas de rendimiento por temas de exceso de dependencias,
+   que la mayoría no se usaban, para solucionarlo borré las que no se usaban, 
+   optimicé el código con un refactor y mejoramos el rendimiento un 30% en la carga de resultados
+
+¿Has tenido la oportunidad de utilizar este stack tecnológico en conjunto en un solo proyecto? 
+Si es así, ¿puedes proporcionar detalles sobre el proyecto y las tecnologías específicas que utilizaste?
+R:  Si eh trabajado mediante el stack MERN y considero que se adapta y se maneja muy bien. 
+  
